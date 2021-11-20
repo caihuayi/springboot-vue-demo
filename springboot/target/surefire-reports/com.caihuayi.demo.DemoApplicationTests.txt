@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.caihuayi.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.917 s - in com.caihuayi.demo.DemoApplicationTests

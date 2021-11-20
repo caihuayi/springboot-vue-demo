@@ -1,0 +1,6 @@
+com/caihuayi/demo/common/Result.class
+com/caihuayi/demo/entity/User.class
+com/caihuayi/demo/controller/UserController.class
+com/caihuayi/demo/mapper/UserMapper.class
+com/caihuayi/demo/common/MybatisPlusConfig.class
+com/caihuayi/demo/DemoApplication.class
